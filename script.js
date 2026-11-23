@@ -135,7 +135,7 @@ function checkout() {
     }
 
     // Replace with the shop's actual WhatsApp number
-    const SHOP_WHATSAPP = "60143619192";
+    const SHOP_WHATSAPP = "60169095327";
 
     let message = "Hello CHAYA BAR! I would like to order:\n\n";
 
