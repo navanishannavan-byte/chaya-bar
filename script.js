@@ -4,7 +4,7 @@ const drinks = [
         name: "cold coffee",
         price: 5.00,
         category: "Cold coffee is a chilled, creamy beverage made by blending instant coffee, milk, sugar, and ice to create a frothy, café‑style drink,",
-        image: "cold coffee.jpeg"
+        image: "images/cold coffee.jpeg"
     },
     { id: 2,
         name: "quesillo",
