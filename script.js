@@ -6,6 +6,12 @@ const drinks = [
         category: "Cold coffee is a chilled, creamy beverage made by blending instant coffee, milk, sugar, and ice to create a frothy, café‑style drink,",
         image: "cold coffee.jpeg"
     },
+    { id: 2,
+        name: "quesillo",
+        price: 8.00,
+        category: "Quesilo is a delicious, cheesy dish featuring a rich, creamy texture with a golden, melted cheese layer. Every bite delivers a satisfying combination of savoury flavours and smooth, cheesy goodness, making it perfect for cheese lovers.,",
+        image: "quesillo.jpeg"
+    },
    
 ];
 
